@@ -4,7 +4,7 @@
 | Семестр | Предмет | Силлабус и материалы |
 | --- | --- | --- |
 | 3 | Математический анализ и основы вычислений | <a href="https://docs.google.com/document/d/1-ll5S_aAkasOMojLNWlQ44f2W5Qkthj3eyt2IQ5qoRs/edit?usp=sharing" target="_blank" rel="noreferrer">Силлабус</a> |
-| 3 | Методы оптимизации |  |
+| 3 | Методы оптимизации | <a href="https://drive.google.com/drive/folders/1OAUjTAmnmy_4DV-A3bMOdLVfUEVJbt_E" target="_blank" rel="noreferrer">Силлабус</a> |
 | 3 | Объектно-ориентированное программирование (С#) | <a href="https://github.com/ait-oop-y28" target="_blank" rel="noreferrer">Силлабус</a> |
 | 3 | Основы баз данных | <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="img/pgsql.svg" alt="pgsql" width="30" height="30"/></a> |
 | 3 | Сетевые технологии |  |
